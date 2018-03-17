@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.03.17 21:34:52.799,=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.17 21:34:52.950,=C:\Users\dell\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2018.03.17 21:36:13.151,C:\Users\dell\Documents\MSU\IT\vec\vm_test.cpp=C:\Users\dell\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2018.03.17 21:36:33.474,C:\Users\dell\Documents\MSU\IT\vec\vmtest.h=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.17 21:36:48.544,C:\Users\dell\Documents\MSU\IT\vec\vm_test.cbproj=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2018.03.17 21:41:38.902,=C:\Users\dell\Documents\MSU\IT\vec\lib\Matrix.cpp</Transaction>
+    <Transaction>2018.03.17 21:41:38.910,=C:\Users\dell\Documents\MSU\IT\vec\lib\Smx.cpp</Transaction>
+    <Transaction>2018.03.17 21:41:38.916,=C:\Users\dell\Documents\MSU\IT\vec\lib\Svec.cpp</Transaction>
+    <Transaction>2018.03.17 21:41:38.923,=C:\Users\dell\Documents\MSU\IT\vec\lib\Vector.cpp</Transaction>
+    <Transaction>2018.03.17 21:42:02.707,=C:\Users\dell\Documents\MSU\IT\vec\lib\general.h</Transaction>
+  </Transactions>
+</BorlandProject>
